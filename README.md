@@ -37,7 +37,7 @@ Exemplo:
 ### 3. Execução
 Rode o script:
 ```bash
-Python main.py
+python main.py
 ```
 E o arquivo Relatório de logs com Python.docx será gerado automaticamente na mesma pasta.
 
